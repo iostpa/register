@@ -1,0 +1,8 @@
+{
+  "owner": {
+    "username": "invalid"
+  },
+  "records": {
+    "A": "1.1.1.1"
+  }
+}
